@@ -1,10 +1,30 @@
 body {
-    background-color: #eeeeee;
+    background-color: #e9cfcf;
+    text-align: center;
     font-family: 'Roboto', sans-serif;
     margin: 0;
     }
 
+header {
+    background-color: #e6b6b6;
+    height: 100px;
+
+    }   
+
 section {
-    max-width: 60em;
-    margin: auto;
+    max-width: 40em;
+    margin-right: auto;
+    margin-left: auto;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    text-transform: uppercase;
+    background-color: #fff;
     }
+
+footer {
+    background-color: #e97e7e;
+    margin: 0;
+    height: 50px;
+    }   
